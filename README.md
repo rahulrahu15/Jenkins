@@ -42,7 +42,7 @@ Test: Placeholder for running automated tests.
 Deploy: Copies project files to /var/www/html on EC2.
 
 
-**🌐**** Deployment**
+**🌐 Deployment**
 
 Apache2 is installed on EC2 (/var/www/html)
 
@@ -50,7 +50,7 @@ Ownership is set to Jenkins user to allow non-interactive deployment:  sudo chow
 
 After running the Jenkins pipeline, the website is live at your EC2 public IP
 
-**📌**** How to Run**
+**📌 How to Run**
 
 Fork or clone the repository.
 
